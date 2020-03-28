@@ -8,4 +8,4 @@ app.use(cors());
 app.use(express.json());
 app.use(routes);
 
-app.listen(3000, console.log('Servidor iniciado'))
+app.listen(3333, console.log('Servidor iniciado'))
