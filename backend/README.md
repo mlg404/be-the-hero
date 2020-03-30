@@ -16,6 +16,13 @@
   <a href="#memo-license">License</a>
 </p>
 
+<p align="center">
+  <img alt="Web Gif" src="https://i.imgur.com/K8KPft4.png">
+  <img alt="Web Gif" src="https://i.imgur.com/bl9sGSN.png">
+  <img alt="Web Gif" src="https://i.imgur.com/Z4ORLsf.png">
+  <img alt="Web Gif" src="https://i.imgur.com/zPQID5D.png">
+</p>
+
 ## :rocket: Info
 
 This is a ONG (Non Governamental Organization) application, where people can give financial support to incidents. ONG's can register their incidents and people can choose a incident to support, by sending e-mail or whatsapp.
