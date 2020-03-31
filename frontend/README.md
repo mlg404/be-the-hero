@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Be The Hero: Application back-end
+  Be The Hero: front-end WEB
 </h3>
 
-<p>This is the back-end for "Semana OmniStack 11", where i developed an entire application (Back-end, Front-end and Mobile) for help ONG's to get financial suport their registered incidents!</p>
+<p>This is the front-end for "Semana OmniStack 11", where i developed an entire application (Back-end, Front-end and Mobile) for help ONG's to get financial suport their registered incidents!</p>
 
 <p align="center">
   <a href="#rocket-info">Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <img alt="Web Gif" src="https://i.imgur.com/K8KPft4.png">
-  <img alt="Web Gif" src="https://i.imgur.com/bl9sGSN.png">
-  <img alt="Web Gif" src="https://i.imgur.com/Z4ORLsf.png">
-  <img alt="Web Gif" src="https://i.imgur.com/zPQID5D.png">
+  <img alt="Web Gif" src="https://i.imgur.com/z4DCc2f.png">
+  <img alt="Web Gif" src="https://i.imgur.com/09kkh1e.png">
+  <img alt="Web Gif" src="https://i.imgur.com/GbwNFTH.png">
+  <img alt="Web Gif" src="https://i.imgur.com/g0DzBle.png">
 </p>
 
 ## :rocket: Info
@@ -31,17 +31,13 @@ This is a ONG (Non Governamental Organization) application, where people can giv
 
 This project was developed following this technologies:
 
--  [cors](https://github.com/expressjs/cors)
--  [jest](https://jestjs.io/)
--  [knex](http://knexjs.org/)
--  [express](https://expressjs.com/)
--  [node.js](https://nodejs.org/)
--  [sqlite3](https://github.com/mapbox/node-sqlite3)
--  [nodemon](https://nodemon.io/)
--  [VS Code][vc] 
--  [celebrate](https://github.com/arb/celebrate)
--  [supertest](https://github.com/visionmedia/supertest)
--  [cross-env](https://github.com/kentcdodds/cross-env)
+-  [Axios](https://github.com/axios/axios)
+-  [React](https://reactjs.org/)
+-  [React-icons](https://github.com/react-icons/react-icons)
+-  [React-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+-  [VS code](vc)
+
+
 
 ## :information_source: How To
 
@@ -52,41 +48,29 @@ To clone this application you will need [Git](https://git-scm.com), [Node.js v12
 $ git clone https://github.com/mlg404/be-the-hero.git be-the-hero
 
 # Access this repo
-$ cd be-the-hero/backend
+$ cd be-the-hero/frontend
 
 # Install dependencies
 $ yarn install
 
 # Run the application
-$ yarn dev
+$ yarn start
 ```
-
-The Insomnia requests can easily be imported clicking this button:
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=BeTheHero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fmlg404%2Fbe-the-hero%2Fmaster%2Fbackend%2FInsomnia.json)
 
 ## :mag_right: Funcionalities
 
 See the current features!
 
-### **1. ONG's**
+### ** All funcionalities**
 
-ONG's funcionalities:
-
-- Register a ong;
-- List all ong's;
+- Register your ONG;
 - Login with the ong ID;
-- List all own incidents.
-
-### **2. Incidents**
-
-Incidents funcionalities:
-
-- Create a new incident;
-- Delete an incident;
-- List all incident's.
+- See all your own incidents;
+- Delete your incidents;
+- Register a new incidents.
 
 ## :memo: License
-This project is under MIT license. See [LICENSE](https://github.com/mlg404/be-the-hero/blob/master/LICENSE) for more information.
+This project is under MIT license . See [LICENSE](https://github.com/mlg404/be-the-hero/blob/master/LICENSE) for more information.
 
 ---
 
