@@ -24,14 +24,14 @@ export default function Detail() {
 
   function sendMail() {
     MailComposer.composeAsync({
-      subject: `Heró do caso: ${incident.title}`,
+      subject: `Herói do caso: ${incident.title}`,
       recipients: [incident.email],
       body: message,
     });
   }
 
   function sendWhatsApp() {
-    Linking.openURL(`whatsapp://send?phone=${incident.whatsapp}&text=${message}`);
+    Linking.openURL(`whatsapp://send?phone=+55${incident.whatsapp}&text=${message}`);
   }
 
   return (
