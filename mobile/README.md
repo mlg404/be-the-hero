@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <img alt="Web Gif" src="https://i.imgur.com/K8KPft4.png">
-  <img alt="Web Gif" src="https://i.imgur.com/bl9sGSN.png">
-  <img alt="Web Gif" src="https://i.imgur.com/Z4ORLsf.png">
-  <img alt="Web Gif" src="https://i.imgur.com/zPQID5D.png">
+  <img alt="Web Gif" src="https://i.imgur.com/LxrUk1M.png">
+  <img alt="Web Gif" src="https://i.imgur.com/CPDWvLx.png">
+  <img alt="Web Gif" src="https://i.imgur.com/y3JhyoO.png">
+  <img alt="Web Gif" src="https://i.imgur.com/ixIMwUv.png">
 </p>
 
 ## :rocket: Info
@@ -65,7 +65,7 @@ $ yarn start
 
 See the current features!
 
-### **1. Mobile **
+### ** 1. Mobile **
 
 - List all incidents;
 - See the incidents counter;
