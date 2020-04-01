@@ -17,10 +17,10 @@
 </p>
 
 <p align="center" style="display: flex">
-  <img alt="Web Gif" src="https://i.imgur.com/LxrUk1M.png" width="240px">
-  <img alt="Web Gif" src="https://i.imgur.com/CPDWvLx.png" width="240px">
-  <img alt="Web Gif" src="https://i.imgur.com/y3JhyoO.png" width="240px">
-  <img alt="Web Gif" src="https://i.imgur.com/ixIMwUv.png" width="240px">
+  <img alt="Web Gif" src="https://i.imgur.com/LxrUk1M.png" width="225px">
+  <img alt="Web Gif" src="https://i.imgur.com/CPDWvLx.png" width="225px">
+  <img alt="Web Gif" src="https://i.imgur.com/y3JhyoO.png" width="225px">
+  <img alt="Web Gif" src="https://i.imgur.com/ixIMwUv.png" width="225px">
 </p>
 
 ## :rocket: Info
