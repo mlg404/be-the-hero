@@ -36,8 +36,8 @@ This project was developed following this technologies:
 -  [axios](https://github.com/axios/axios)
 -  [React](https://reactjs.org)
 -  [VS Code][vc] 
--  [vector-icons][https://github.com/expo/vector-icons] 
--  [React Native][https://reactnative.dev/] 
+-  [vector icons](https://github.com/expo/vector-icons)
+-  [React Native](https://reactnative.dev/)
 -  [expo-constants](https://docs.expo.io/versions/latest/sdk/constants/)
 -  [react-navigation](https://reactnavigation.org/)
 -  [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
