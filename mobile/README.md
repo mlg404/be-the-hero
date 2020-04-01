@@ -16,11 +16,11 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="center">
-  <img alt="Web Gif" src="https://i.imgur.com/LxrUk1M.png">
-  <img alt="Web Gif" src="https://i.imgur.com/CPDWvLx.png">
-  <img alt="Web Gif" src="https://i.imgur.com/y3JhyoO.png">
-  <img alt="Web Gif" src="https://i.imgur.com/ixIMwUv.png">
+<p align="center" style="display: flex">
+  <img alt="Web Gif" src="https://i.imgur.com/LxrUk1M.png" width="300px">
+  <img alt="Web Gif" src="https://i.imgur.com/CPDWvLx.png" width="300px">
+  <img alt="Web Gif" src="https://i.imgur.com/y3JhyoO.png" width="300px">
+  <img alt="Web Gif" src="https://i.imgur.com/ixIMwUv.png" width="300px">
 </p>
 
 ## :rocket: Info
