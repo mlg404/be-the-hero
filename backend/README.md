@@ -58,7 +58,7 @@ $ cd be-the-hero/backend
 $ yarn install
 
 # Run the application
-$ yarn dev
+$ yarn start
 ```
 
 The Insomnia requests can easily be imported clicking this button:
